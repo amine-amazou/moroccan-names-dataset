@@ -1,0 +1,499 @@
+{
+  "names": {
+    "Ahmed": {
+      "in_arabic": "أحمد",
+      "meaning": "greatly praised, commendable",
+      "meaning_extended": "A name meaning 'greatly praised' and one of the names of the Prophet Muhammad."
+    },
+    "Mohammed": {
+      "in_arabic": "محمد",
+      "meaning": "praiseworthy, lauded",
+      "meaning_extended": "The most common name in the world, it translates to 'praiseworthy' or 'lauded'."
+    },
+    "Youssef": {
+      "in_arabic": "يوسف",
+      "meaning": "God increases, addition",
+      "meaning_extended": "The Arabic form of Joseph, meaning 'God increases' or 'God will add'."
+    },
+    "Said": {
+      "in_arabic": "سعيد",
+      "meaning": "happy, lucky, fortunate",
+      "meaning_extended": "A cheerful name that literally translates to 'happy' or 'lucky'."
+    },
+    "Amine": {
+      "in_arabic": "أمين",
+      "meaning": "trustworthy, honest, faithful",
+      "meaning_extended": "Refers to someone who is 'trustworthy', 'honest', or 'faithful'."
+    },
+    "Mehdi": {
+      "in_arabic": "مهدي",
+      "meaning": "rightly guided, directed",
+      "meaning_extended": "A spiritual name meaning 'the rightly guided one'."
+    },
+    "Ali": {
+      "in_arabic": "علي",
+      "meaning": "high, exalted, elevated",
+      "meaning_extended": "A noble name meaning 'high', 'exalted', or 'elevated'."
+    },
+    "Hassan": {
+      "in_arabic": "حسن",
+      "meaning": "handsome, good, benefactor",
+      "meaning_extended": "A popular name meaning 'handsome', 'good', or 'benefactor'."
+    },
+    "Hicham": {
+      "in_arabic": "هشام",
+      "meaning": "generous, noble, hospitable",
+      "meaning_extended": "An ancient name meaning 'generous' or 'one who smashes bread' (a sign of hospitality)."
+    },
+    "Mostapha": {
+      "in_arabic": "مصطفى",
+      "meaning": "the chosen one, preferred",
+      "meaning_extended": "One of the titles of the Prophet, meaning 'the chosen one'."
+    },
+    "Kamal": {
+      "in_arabic": "كمال",
+      "meaning": "perfection, completion, excellence",
+      "meaning_extended": "A name representing 'perfection', 'completion', or 'excellence'."
+    },
+    "Khalid": {
+      "in_arabic": "خالد",
+      "meaning": "eternal, everlasting, immortal",
+      "meaning_extended": "A powerful name meaning 'eternal', 'everlasting', or 'immortal'."
+    },
+    "Yassine": {
+      "in_arabic": "ياسين",
+      "meaning": "title of the Prophet, Quranic chapter",
+      "meaning_extended": "The name of a chapter in the Quran, often used as a title for the Prophet."
+    },
+    "Omar": {
+      "in_arabic": "عمر",
+      "meaning": "long-lived, flourishing, eloquent",
+      "meaning_extended": "A classic name meaning 'long-lived', 'flourishing', or 'eloquent'."
+    },
+    "Brahim": {
+      "in_arabic": "براهيم",
+      "meaning": "father of many, father of nations",
+      "meaning_extended": "A regional variation of Ibrahim, meaning 'father of many' or 'father of nations'."
+    },
+    "Hamza": {
+      "in_arabic": "حمزة",
+      "meaning": "lion, strong, steadfast",
+      "meaning_extended": "Meaning 'lion' or 'strong and steadfast', it was the name of the Prophet's uncle."
+    },
+    "Ayoub": {
+      "in_arabic": "أيوب",
+      "meaning": "patience, returning to God",
+      "meaning_extended": "The Arabic version of Job, symbolizing 'patience' and 'returning to God'."
+    },
+    "Anass": {
+      "in_arabic": "أنس",
+      "meaning": "affectionate, sociable, pleasant",
+      "meaning_extended": "A friendly name meaning 'affectionate', 'sociable', or 'pleasant company'."
+    },
+    "Ayman": {
+      "in_arabic": "أيمن",
+      "meaning": "blessed, fortunate, right-handed",
+      "meaning_extended": "Meaning 'blessed', 'fortunate', or 'right-handed'."
+    },
+    "Samir": {
+      "in_arabic": "سمير",
+      "meaning": "companion in evening talk, entertainer",
+      "meaning_extended": "A poetic name referring to a 'companion in evening talk'."
+    },
+    "Idriss": {
+      "in_arabic": "إدريس",
+      "meaning": "interpreter, studious",
+      "meaning_extended": "Thought to mean 'to study' or 'interpreter', often associated with the prophet Enoch."
+    },
+    "Bilal": {
+      "in_arabic": "بلال",
+      "meaning": "refreshing, moisture, first muezzin",
+      "meaning_extended": "Meaning 'moisture' or 'refreshing', it was the name of the first Muezzin in Islam."
+    },
+    "Jalal": {
+      "in_arabic": "جلال",
+      "meaning": "glory, grandeur, dignity",
+      "meaning_extended": "A majestic name meaning 'glory', 'grandeur', or 'dignity'."
+    },
+    "Jawad": {
+      "in_arabic": "جواد",
+      "meaning": "generous, magnanimous, open-handed",
+      "meaning_extended": "Refers to someone who is 'generous', 'magnanimous', or 'open-handed'."
+    },
+    "Saad": {
+      "in_arabic": "سعد",
+      "meaning": "good fortune, success, happiness",
+      "meaning_extended": "A name signifying 'good fortune', 'success', or 'happiness'."
+    },
+    "Larbi": {
+      "in_arabic": "العربي",
+      "meaning": "the Arab, Arabic",
+      "meaning_extended": "Common in North Africa, it simply means 'the Arab' or 'Arabic'."
+    },
+    "Oussama": {
+      "in_arabic": "أسامة",
+      "meaning": "lion, brave",
+      "meaning_extended": "A classic Arabic name for a 'lion'."
+    },
+    "Amjad": {
+      "in_arabic": "أمجد",
+      "meaning": "more glorious, most illustrious",
+      "meaning_extended": "A superlative name meaning 'more glorious' or 'most illustrious'."
+    },
+    "Adam": {
+      "in_arabic": "آدم",
+      "meaning": "man, made from earth",
+      "meaning_extended": "The first human, meaning 'man' or 'made from the earth'."
+    },
+    "Alae": {
+      "in_arabic": "آلاء",
+      "meaning": "blessings, favors, signs",
+      "meaning_extended": "Meaning 'blessings', 'favors', or 'signs of God'."
+    },
+    "Alaeddine": {
+      "in_arabic": "علاء الدين",
+      "meaning": "nobility of religion, excellence of faith",
+      "meaning_extended": "Meaning 'excellence of the faith' or 'nobility of religion'."
+    },
+    "El Houssine": {
+      "in_arabic": "الحسين",
+      "meaning": "little handsome one, beautiful",
+      "meaning_extended": "A diminutive of Hassan, meaning 'little handsome one' or 'beautiful'."
+    },
+    "Anys": {
+      "in_arabic": "أنيس",
+      "meaning": "close companion, genial",
+      "meaning_extended": "A name for a 'close companion' or someone who is 'genial'."
+    },
+    "Fouad": {
+      "in_arabic": "فؤاد",
+      "meaning": "heart, spirit, soul",
+      "meaning_extended": "A poetic term specifically referring to the 'heart' or 'spirit'."
+    },
+    "Fadi": {
+      "in_arabic": "فادي",
+      "meaning": "savior, redeemer",
+      "meaning_extended": "A title meaning 'the savior' or 'the redeemer'."
+    },
+    "Wail": {
+      "in_arabic": "وائل",
+      "meaning": "seeking shelter, returning to peace",
+      "meaning_extended": "Meaning 'one who seeks shelter' or 'returning to peace'."
+    },
+    "Ilyas": {
+      "in_arabic": "إلياس",
+      "meaning": "God is my Lord, Elijah",
+      "meaning_extended": "The Arabic form of Elijah, meaning 'My God is Yahweh'."
+    },
+    "Salim": {
+      "in_arabic": "سليم",
+      "meaning": "safe, secure, whole",
+      "meaning_extended": "Meaning 'safe', 'secure', or 'whole'."
+    },
+    "Imad": {
+      "in_arabic": "عماد",
+      "meaning": "pillar, support, mainstay",
+      "meaning_extended": "A strong name meaning 'pillar', 'support', or 'mainstay'."
+    },
+    "Nouh": {
+      "in_arabic": "نوح",
+      "meaning": "rest, comfort, Noah",
+      "meaning_extended": "The Arabic form of Noah, meaning 'rest' or 'comfort'."
+    },
+    "Wassim": {
+      "in_arabic": "وسيم",
+      "meaning": "graceful, handsome, distinguished",
+      "meaning_extended": "Refers to someone who is 'graceful' or 'distinguished in appearance'."
+    },
+    "Soufiane": {
+      "in_arabic": "سفيان",
+      "meaning": "devoted, fast-moving, pure",
+      "meaning_extended": "Historically refers to someone 'devoted' or 'fast-moving'."
+    },
+    "Rachid": {
+      "in_arabic": "رشيد",
+      "meaning": "rightly guided, wise, mature",
+      "meaning_extended": "Meaning 'rightly guided', 'wise', or 'mature'."
+    },
+    "Karim": {
+      "in_arabic": "كريم",
+      "meaning": "generous, noble, honorable",
+      "meaning_extended": "One of the 99 names of God, meaning 'generous' or 'noble'."
+    },
+    "Walid": {
+      "in_arabic": "وليد",
+      "meaning": "newborn, son",
+      "meaning_extended": "A name meaning 'newborn' or 'son'."
+    },
+    "Redouan": {
+      "in_arabic": "رضوان",
+      "meaning": "satisfaction, pleasure, gatekeeper of heaven",
+      "meaning_extended": "Meaning 'satisfaction', 'pleasure', or 'the keeper of the gates of heaven'."
+    },
+    "Abdollah": {
+      "in_arabic": "عبد الله",
+      "meaning": "servant of God",
+      "meaning_extended": "A humble name meaning 'servant of God'."
+    },
+    "Youness": {
+      "in_arabic": "يونس",
+      "meaning": "dove, Jonah",
+      "meaning_extended": "The Arabic version of Jonah, meaning 'dove'."
+    },
+    "Zakaria": {
+      "in_arabic": "زكرياء",
+      "meaning": "God has remembered",
+      "meaning_extended": "Meaning 'God has remembered'."
+    },
+    "Nabil": {
+      "in_arabic": "نبيل",
+      "meaning": "noble, distinguished, honorable",
+      "meaning_extended": "A name for someone 'noble', 'distinguished', or 'honorable'."
+    },
+    "Faysal": {
+      "in_arabic": "فيصل",
+      "meaning": "decisive, arbitrator, leader",
+      "meaning_extended": "Meaning 'a decisive leader' or 'one who separates truth from falsehood'."
+    },
+    "Hamid": {
+      "in_arabic": "حميد",
+      "meaning": "praiseworthy, one who praises",
+      "meaning_extended": "A name meaning 'praiseworthy' or 'one who praises'."
+    },
+    "Zayd": {
+      "in_arabic": "زيد",
+      "meaning": "growth, abundance, prosperity",
+      "meaning_extended": "Meaning 'growth', 'abundance', or 'to prosper'."
+    },
+    "Rayan": {
+      "in_arabic": "ريان",
+      "meaning": "luxuriant, well-watered, gate of paradise",
+      "meaning_extended": "Meaning 'luxuriant' or 'well-watered', it is the name of a gate in Paradise."
+    },
+    "Tarik": {
+      "in_arabic": "طارق",
+      "meaning": "morning star, noctural visitor",
+      "meaning_extended": "Often translated as 'the morning star' or 'one who knocks at the door'."
+    },
+    "Mouad": {
+      "in_arabic": "معاذ",
+      "meaning": "protected, guarded by God",
+      "meaning_extended": "Meaning 'protected' or 'one who is under God's protection'."
+    },
+    "Najib": {
+      "in_arabic": "نجيب",
+      "meaning": "noble birth, intelligent, distinguished",
+      "meaning_extended": "Refers to someone of 'noble birth' or an 'intelligent' person."
+    },
+    "Hakim": {
+      "in_arabic": "حكيم",
+      "meaning": "wise, judge, physician",
+      "meaning_extended": "A name for a 'wise man' or a 'physician'."
+    },
+    "Reda": {
+      "in_arabic": "رضا",
+      "meaning": "contentment, satisfaction, approval",
+      "meaning_extended": "Meaning 'contentment', 'satisfaction', or 'being pleased with God’s will'."
+    },
+    "Badr": {
+      "in_arabic": "بدر",
+      "meaning": "full moon",
+      "meaning_extended": "A celestial name meaning 'full moon'."
+    },
+    "Bassam": {
+      "in_arabic": "بسام",
+      "meaning": "smiling, cheerful",
+      "meaning_extended": "A cheerful name meaning 'one who smiles often'."
+    },
+    "Bouchaib": {
+      "in_arabic": "بوشعيب",
+      "meaning": "traditional, youth, abundance",
+      "meaning_extended": "A traditional Moroccan name likely referring to 'the one with many young ones'."
+    },
+    "Chakib": {
+      "in_arabic": "شكيب",
+      "meaning": "giver, patient, rewarding",
+      "meaning_extended": "Meaning 'one who gives much' or 'patience'."
+    },
+    "Abdelilah": {
+      "in_arabic": "عبد الإله",
+      "meaning": "servant of the Deity",
+      "meaning_extended": "A religious name meaning 'servant of the Deity'."
+    },
+    "Abdesalam": {
+      "in_arabic": "عبد السلام",
+      "meaning": "servant of Peace",
+      "meaning_extended": "A peaceful name meaning 'servant of Peace'."
+    },
+    "Abdelali": {
+      "in_arabic": "عبد العالي",
+      "meaning": "servant of the Most High",
+      "meaning_extended": "Meaning 'servant of the Most High'."
+    },
+    "Abdelmalek": {
+      "in_arabic": "عبد المالك",
+      "meaning": "servant of the Sovereign",
+      "meaning_extended": "Meaning 'servant of the King' or 'servant of the Sovereign'."
+    },
+    "Saif": {
+      "in_arabic": "سيف",
+      "meaning": "sword, strength",
+      "meaning_extended": "A sharp and strong name meaning 'sword'."
+    },
+    "Rayad": {
+      "in_arabic": "رياض",
+      "meaning": "gardens, meadows",
+      "meaning_extended": "A variation of Riyadh, meaning 'gardens' or 'meadows'."
+    },
+    "Majid": {
+      "in_arabic": "مجيد",
+      "meaning": "glorious, noble, magnificent",
+      "meaning_extended": "Meaning 'glorious', 'noble', or 'magnificent'."
+    },
+    "Abdelmajid": {
+      "in_arabic": "عبد المجيد",
+      "meaning": "servant of the All-Glorious",
+      "meaning_extended": "Meaning 'servant of the All-Glorious'."
+    },
+    "Abdelkarim": {
+      "in_arabic": "عبد الكريم",
+      "meaning": "servant of the Most Generous",
+      "meaning_extended": "Meaning 'servant of the Most Generous'."
+    },
+    "Mounaim": {
+      "in_arabic": "منعم",
+      "meaning": "benefactor, bestower of favor",
+      "meaning_extended": "Meaning 'benefactor' or 'one who bestows favor'."
+    },
+    "Nasser": {
+      "in_arabic": "ناصر",
+      "meaning": "victorious, helper",
+      "meaning_extended": "A strong name meaning 'victorious' or 'grantor of victory'."
+    },
+    "Chafik": {
+      "in_arabic": "شفيق",
+      "meaning": "compassionate, kind, tender",
+      "meaning_extended": "Refers to someone who is 'compassionate', 'kind', or 'tender'."
+    },
+    "Fariss": {
+      "in_arabic": "فارس",
+      "meaning": "knight, horseman, insightful",
+      "meaning_extended": "A name for a 'knight', 'horseman', or 'perspicacious person'."
+    },
+    "Azzedine": {
+      "in_arabic": "عز الدين",
+      "meaning": "might of the faith, power",
+      "meaning_extended": "Meaning 'the might of the faith' or 'power of religion'."
+    },
+    "Amr": {
+      "in_arabic": "عمرو",
+      "meaning": "long-lived, flourishing, life",
+      "meaning_extended": "An ancient name meaning 'long-lived' or 'flourishing'."
+    },
+    "Mbarek": {
+      "in_arabic": "مبارك",
+      "meaning": "blessed, fortunate",
+      "meaning_extended": "A name meaning 'blessed' or 'fortunate'."
+    },
+    "Amir": {
+      "in_arabic": "أمير",
+      "meaning": "prince, leader, commander",
+      "meaning_extended": "A regal name meaning 'prince', 'commander', or 'leader'."
+    },
+    "Imrane": {
+      "in_arabic": "عمران",
+      "meaning": "prosperity, long life, population",
+      "meaning_extended": "Refers to 'prosperity' and 'long-life', also the name of Mary’s father in the Quran."
+    },
+    "Nourdine": {
+      "in_arabic": "نور الدين",
+      "meaning": "light of the religion",
+      "meaning_extended": "A radiant name meaning 'light of the religion'."
+    },
+    "Mounir": {
+      "in_arabic": "منير",
+      "meaning": "bright, shining, luminous",
+      "meaning_extended": "Meaning 'bright', 'shining', or 'luminous'."
+    },
+    "Farid": {
+      "in_arabic": "فريد",
+      "meaning": "unique, matchless, precious",
+      "meaning_extended": "A name for someone 'unique', 'matchless', or 'precious'."
+    },
+    "Nassir": {
+      "in_arabic": "نصير",
+      "meaning": "helper, protector, supporter",
+      "meaning_extended": "Meaning 'helper', 'supporter', or 'protector'."
+    },
+    "Yassar": {
+      "in_arabic": "يسار",
+      "meaning": "ease, wealth, prosperity",
+      "meaning_extended": "Meaning 'ease', 'wealth', or 'prosperity'."
+    },
+    "Rida": {
+      "in_arabic": "رضا",
+      "meaning": "approval, contentment",
+      "meaning_extended": "A variation of Reda, meaning 'contentment' or 'approval'."
+    },
+    "Nizar": {
+      "in_arabic": "نزار",
+      "meaning": "scarcity, rare, noble",
+      "meaning_extended": "An old name meaning 'little' or 'scarce', historically tied to nobility."
+    },
+    "Naoufal": {
+      "in_arabic": "نوفل",
+      "meaning": "generous, handsome youth",
+      "meaning_extended": "Meaning 'generous' or 'a handsome young man'."
+    },
+    "Chouaib": {
+      "in_arabic": "شعيب",
+      "meaning": "excellent, showing the way",
+      "meaning_extended": "The name of a prophet, often associated with 'excellence' or 'showing the way'."
+    },
+    "Elmahjoub": {
+      "in_arabic": "المحجوب",
+      "meaning": "hidden, veiled, protected",
+      "meaning_extended": "Meaning 'the hidden one' or 'the veiled one'."
+    },
+    "Marwan": {
+      "in_arabic": "مروان",
+      "meaning": "flintstone, fragrant herb",
+      "meaning_extended": "A name referring to 'flintstone' or 'a fragrant herb'."
+    },
+    "Zoubir": {
+      "in_arabic": "زبير",
+      "meaning": "strong, powerful, wise",
+      "meaning_extended": "Meaning 'strong', 'powerful', or 'wise'."
+    },
+    "Awss": {
+      "in_arabic": "أوس",
+      "meaning": "gift, wolf",
+      "meaning_extended": "An ancient tribal name meaning 'gift' or 'wolf'."
+    },
+    "Awsim": {
+      "in_arabic": "أوسيم",
+      "meaning": "handsome, well-featured",
+      "meaning_extended": "Refers to someone 'handsome' or 'well-featured'."
+    },
+    "Wissam": {
+      "in_arabic": "وسام",
+      "meaning": "medal, badge of honor, distinction",
+      "meaning_extended": "A name meaning 'medal', 'badge of honor', or 'distinction'."
+    },
+    "Abdessadek": {
+      "in_arabic": "عبد الصادق",
+      "meaning": "servant of the Truthful",
+      "meaning_extended": "Meaning 'servant of the Truthful'."
+    },
+    "Abdelghafour": {
+      "in_arabic": "عبد الغفور",
+      "meaning": "servant of the All-Forgiving",
+      "meaning_extended": "Meaning 'servant of the All-Forgiving'."
+    },
+    "Ghait": {
+      "in_arabic": "غيث",
+      "meaning": "rain, relief, succor",
+      "meaning_extended": "A name representing 'rain' or 'succor/relief'."
+    }
+  }
+}
