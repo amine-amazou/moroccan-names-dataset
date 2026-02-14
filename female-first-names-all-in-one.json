@@ -1,0 +1,574 @@
+{
+  "female_names_consolidated": {
+    "Aya": {
+      "in_arabic": "آية",
+      "meaning": "miracle, sign, verse",
+      "meaning_extended": "A name meaning a 'miracle', a 'sign from God', or a 'verse' of the Quran."
+    },
+    "Amina": {
+      "in_arabic": "أمينة",
+      "meaning": "trustworthy, faithful, honest",
+      "meaning_extended": "Meaning 'trustworthy', 'faithful', or 'honest'; it was the name of the Prophet's mother."
+    },
+    "Asmae": {
+      "in_arabic": "أسماء",
+      "meaning": "names, sublime, eminent",
+      "meaning_extended": "The plural of 'name', meaning 'lofty', 'sublime', or 'eminent'."
+    },
+    "Salma": {
+      "in_arabic": "سلمى",
+      "meaning": "peaceful, safe, sound",
+      "meaning_extended": "A name signifying someone who is 'peaceful', 'safe', and 'sound'."
+    },
+    "Marwa": {
+      "in_arabic": "مروة",
+      "meaning": "fragrant stone, sacred hill",
+      "meaning_extended": "Refers to a 'fragrant stone' and is the name of a sacred hill in Mecca."
+    },
+    "Firdaousse": {
+      "in_arabic": "فردوس",
+      "meaning": "paradise, highest garden",
+      "meaning_extended": "The highest level of 'Paradise' or a 'lush garden'."
+    },
+    "Hiba": {
+      "in_arabic": "هبة",
+      "meaning": "gift, blessing",
+      "meaning_extended": "A lovely name meaning a 'gift' or a 'blessing' from God."
+    },
+    "Yasmine": {
+      "in_arabic": "ياسمين",
+      "meaning": "jasmine flower, sweetness",
+      "meaning_extended": "The Arabic name for the 'Jasmine' flower, symbolizing sweetness and beauty."
+    },
+    "Jamila": {
+      "in_arabic": "جميلة",
+      "meaning": "beautiful, graceful, elegant",
+      "meaning_extended": "A classic name meaning 'beautiful', 'graceful', or 'elegant'."
+    },
+    "Safae": {
+      "in_arabic": "صفاء",
+      "meaning": "purity, clarity, serenity",
+      "meaning_extended": "Meaning 'purity', 'clarity', or 'serenity'."
+    },
+    "Khadija": {
+      "in_arabic": "خديجة",
+      "meaning": "trustworthy, premature child",
+      "meaning_extended": "Meaning 'premature child', it is revered as the name of the Prophet's first wife."
+    },
+    "Hajar": {
+      "in_arabic": "هاجر",
+      "meaning": "flight, migration, mother of Ishmael",
+      "meaning_extended": "Meaning 'flight' or 'migration', named after the mother of Ishmael."
+    },
+    "Amal": {
+      "in_arabic": "أمل",
+      "meaning": "aspirations, hope, expectations",
+      "meaning_extended": "A hopeful name meaning 'aspirations' or 'expectations'."
+    },
+    "Ahlam": {
+      "in_arabic": "أحلام",
+      "meaning": "dreams, imaginations",
+      "meaning_extended": "A poetic name meaning 'dreams' or 'imaginations'."
+    },
+    "Samira": {
+      "in_arabic": "سميرة",
+      "meaning": "evening companion, entertainer",
+      "meaning_extended": "The feminine form of Samir, meaning 'a companion in evening conversation'."
+    },
+    "Oumaima": {
+      "in_arabic": "أميمة",
+      "meaning": "little mother, young mother",
+      "meaning_extended": "Often interpreted as a 'little mother' or a 'young mother'."
+    },
+    "Fatine": {
+      "in_arabic": "فاتن",
+      "meaning": "charming, captivating, alluring",
+      "meaning_extended": "Meaning 'charming', 'captivating', or 'alluring'."
+    },
+    "Souad": {
+      "in_arabic": "سعاد",
+      "meaning": "happiness, good fortune",
+      "meaning_extended": "A name derived from 'Saad', meaning 'happiness' or 'good fortune'."
+    },
+    "Sara": {
+      "in_arabic": "سارة",
+      "meaning": "princess, lady, joy-bringer",
+      "meaning_extended": "A name meaning 'lady', 'princess', or 'joy-bringer'."
+    },
+    "Nissrine": {
+      "in_arabic": "نسرين",
+      "meaning": "wild rose, sweet briar",
+      "meaning_extended": "Refers to a 'wild white rose' or 'sweet briar'."
+    },
+    "Lina": {
+      "in_arabic": "لينة",
+      "meaning": "tender, small palm tree",
+      "meaning_extended": "Meaning 'tender' or a 'small young palm tree'."
+    },
+    "Leila": {
+      "in_arabic": "ليلى",
+      "meaning": "night, dark beauty",
+      "meaning_extended": "A romantic name meaning 'night' or 'dark beauty'."
+    },
+    "Farida": {
+      "in_arabic": "فريدة",
+      "meaning": "unique, matchless, precious",
+      "meaning_extended": "Meaning 'unique', 'matchless', or 'precious pearl'."
+    },
+    "Karima": {
+      "in_arabic": "كريمة",
+      "meaning": "generous, noble, kind",
+      "meaning_extended": "Meaning 'generous', 'noble', or 'kind-hearted'."
+    },
+    "Rihab": {
+      "in_arabic": "رحاب",
+      "meaning": "vastness, expanse, open spaces",
+      "meaning_extended": "A name signifying 'vastness', 'expanse', or 'open spaces'."
+    },
+    "Fadma": {
+      "in_arabic": "فادمة",
+      "meaning": "blessed, variation of Fatima",
+      "meaning_extended": "A Berber/North African variation of the name Fatima."
+    },
+    "Hind": {
+      "in_arabic": "هند",
+      "meaning": "group of camels, ancient India",
+      "meaning_extended": "An ancient name referring to a 'group of camels' or the land of India."
+    },
+    "Fatima": {
+      "in_arabic": "فاطمة",
+      "meaning": "captivating, one who abstains",
+      "meaning_extended": "Meaning 'one who abstains', it was the name of the Prophet's favorite daughter."
+    },
+    "Wissam": {
+      "in_arabic": "وسام",
+      "meaning": "medal, honor, distinction",
+      "meaning_extended": "A unisex name meaning 'medal of honor' or 'distinction'."
+    },
+    "Douae": {
+      "in_arabic": "دعاء",
+      "meaning": "prayer, supplication",
+      "meaning_extended": "Meaning 'prayer', 'supplication', or 'calling upon God'."
+    },
+    "Samar": {
+      "in_arabic": "سمر",
+      "meaning": "evening talk, beauty of night",
+      "meaning_extended": "Refers to 'evening talk' or 'the beauty of the night'."
+    },
+    "Samah": {
+      "in_arabic": "سماح",
+      "meaning": "forgiveness, generosity, bounty",
+      "meaning_extended": "Meaning 'forgiveness', 'generosity', or 'bounty'."
+    },
+    "Soukaina": {
+      "in_arabic": "سكينة",
+      "meaning": "tranquility, calm, peace",
+      "meaning_extended": "A name signifying 'tranquility', 'calm', and 'peace of mind'."
+    },
+    "Hanan": {
+      "in_arabic": "حنان",
+      "meaning": "compassion, tenderness, mercy",
+      "meaning_extended": "Meaning 'compassion', 'tenderness', or 'mercy'."
+    },
+    "Hanae": {
+      "in_arabic": "هناء",
+      "meaning": "happiness, bliss, congratulations",
+      "meaning_extended": "A name meaning 'happiness', 'bliss', or 'congratulations'."
+    },
+    "Wafae": {
+      "in_arabic": "وفاء",
+      "meaning": "loyalty, faithfulness, fulfillment",
+      "meaning_extended": "Meaning 'loyalty', 'faithfulness', or 'keeping one’s word'."
+    },
+    "Jannat": {
+      "in_arabic": "جنات",
+      "meaning": "gardens, heavens",
+      "meaning_extended": "The plural of 'Jannah', meaning 'gardens' or 'heavens'."
+    },
+    "Najlae": {
+      "in_arabic": "نجلاء",
+      "meaning": "wide-eyed, beautiful eyes",
+      "meaning_extended": "Refers to someone with 'large, beautiful eyes'."
+    },
+    "Tasnim": {
+      "in_arabic": "تسنيم",
+      "meaning": "fountain of paradise",
+      "meaning_extended": "The name of a spring or fountain found in Paradise."
+    },
+    "Rofaydae": {
+      "in_arabic": "رفيدة",
+      "meaning": "little helper, supporter",
+      "meaning_extended": "Meaning a 'little helper' or 'one who supports'."
+    },
+    "Rodaynae": {
+      "in_arabic": "ردينة",
+      "meaning": "spear-maker, spinning wool",
+      "meaning_extended": "Historically refers to 'the spinning of wool' or a famous spear-maker."
+    },
+    "Ihssan": {
+      "in_arabic": "إحسان",
+      "meaning": "excellence, charity, perfection",
+      "meaning_extended": "Meaning 'excellence', 'charity', or 'perfection in worship'."
+    },
+    "Aziza": {
+      "in_arabic": "عزيزة",
+      "meaning": "powerful, dear, esteemed",
+      "meaning_extended": "Meaning 'powerful', 'dear', or 'highly esteemed'."
+    },
+    "Hasnae": {
+      "in_arabic": "حسناء",
+      "meaning": "beautiful, excellent",
+      "meaning_extended": "A name for a woman who is 'extremely beautiful' or 'excellent'."
+    },
+    "Lamiae": {
+      "in_arabic": "لمياء",
+      "meaning": "dark-lipped, shining",
+      "meaning_extended": "Refers to someone with 'shining, dark lips'—a classic mark of beauty."
+    },
+    "Wassima": {
+      "in_arabic": "وسيمة",
+      "meaning": "pretty, graceful, well-featured",
+      "meaning_extended": "Meaning 'pretty', 'graceful', or 'well-featured'."
+    },
+    "Najat": {
+      "in_arabic": "نجاة",
+      "meaning": "rescue, salvation, success",
+      "meaning_extended": "Meaning 'rescue', 'salvation', or 'success'."
+    },
+    "Majda": {
+      "in_arabic": "ماجدة",
+      "meaning": "glory, honor, nobility",
+      "meaning_extended": "A name signifying 'glory', 'honor', or 'nobility'."
+    },
+    "Dahab": {
+      "in_arabic": "ذهب",
+      "meaning": "gold",
+      "meaning_extended": "The literal Arabic word for 'gold'."
+    },
+    "Zineb": {
+      "in_arabic": "زينب",
+      "meaning": "fragrant tree, father's ornament",
+      "meaning_extended": "Named after a 'fragrant flowering tree' or 'the ornament of her father'."
+    },
+    "Amira": {
+      "in_arabic": "أميرة",
+      "meaning": "princess, leader",
+      "meaning_extended": "A regal name meaning 'princess' or 'leader'."
+    },
+    "Imane": {
+      "in_arabic": "إيمان",
+      "meaning": "faith, belief",
+      "meaning_extended": "A spiritual name meaning 'faith' or 'belief'."
+    },
+    "Malak": {
+      "in_arabic": "ملاك",
+      "meaning": "angel",
+      "meaning_extended": "A celestial name meaning 'angel'."
+    },
+    "Najwa": {
+      "in_arabic": "نجوى",
+      "meaning": "confidential talk, secret",
+      "meaning_extended": "Meaning 'confidential talk' or 'passionate secret'."
+    },
+    "Rim": {
+      "in_arabic": "ريم",
+      "meaning": "white gazelle, graceful",
+      "meaning_extended": "A poetic name for a 'white gazelle', symbolizing beauty and grace."
+    },
+    "Ranya": {
+      "in_arabic": "رانية",
+      "meaning": "conqueror, gazer",
+      "meaning_extended": "Meaning 'conqueror' or 'one who gazes deeply at something'."
+    },
+    "Ilham": {
+      "in_arabic": "إلهام",
+      "meaning": "inspiration, intuition",
+      "meaning_extended": "Meaning 'inspiration' or 'intuition'."
+    },
+    "Nassira": {
+      "in_arabic": "نصيرة",
+      "meaning": "helper, victorious",
+      "meaning_extended": "The feminine form of Nasser, meaning 'helper' or 'victorious'."
+    },
+    "Kawtar": {
+      "in_arabic": "كوثر",
+      "meaning": "abundance, river in paradise",
+      "meaning_extended": "The name of a river in Paradise, meaning 'abundance'."
+    },
+    "Romaysae": {
+      "in_arabic": "رميساء",
+      "meaning": "bouquet, beautiful soul",
+      "meaning_extended": "Meaning a 'bouquet of flowers' or 'one who possesses a beautiful soul'."
+    },
+    "Manal": {
+      "in_arabic": "منال",
+      "meaning": "attainment, achievement",
+      "meaning_extended": "Meaning 'achievement', 'attainment', or 'attainable'."
+    },
+    "Meryem": {
+      "in_arabic": "مريم",
+      "meaning": "beloved, pious, Mary",
+      "meaning_extended": "The Arabic form of Mary, meaning 'bitter' or 'beloved'."
+    },
+    "Wissal": {
+      "in_arabic": "وصال",
+      "meaning": "communion, union",
+      "meaning_extended": "A romantic name meaning 'communion' or 'union of lovers'."
+    },
+    "Halima": {
+      "in_arabic": "حليمة",
+      "meaning": "gentle, patient, mild",
+      "meaning_extended": "Meaning 'gentle', 'patient', and 'mild-mannered'."
+    },
+    "Khaoula": {
+      "in_arabic": "خولة",
+      "meaning": "female deer, gazelle",
+      "meaning_extended": "Historically meaning a 'female deer' or 'gazelle'."
+    },
+    "Arij": {
+      "in_arabic": "أريج",
+      "meaning": "fragrance, sweet aroma",
+      "meaning_extended": "A fragrant name meaning 'sweet smell' or 'aroma'."
+    },
+    "Zoubida": {
+      "in_arabic": "زبيدة",
+      "meaning": "best part, cream of the crop",
+      "meaning_extended": "Meaning 'the cream of the crop' or 'the best part'."
+    },
+    "Bahia": {
+      "in_arabic": "باهية",
+      "meaning": "beautiful, radiant, shining",
+      "meaning_extended": "Meaning 'beautiful', 'shining', or 'radiant'."
+    },
+    "Latifa": {
+      "in_arabic": "لطيفة",
+      "meaning": "gentle, kind, pleasant",
+      "meaning_extended": "Meaning 'gentle', 'kind', or 'pleasant'."
+    },
+    "Bahija": {
+      "in_arabic": "بهيجة",
+      "meaning": "happy, joyful, delightful",
+      "meaning_extended": "A cheerful name meaning 'happy', 'joyful', or 'delightful'."
+    },
+    "Naima": {
+      "in_arabic": "نعيمة",
+      "meaning": "tranquil, comfortable, happy",
+      "meaning_extended": "Meaning 'tranquil', 'happy', or 'living a comfortable life'."
+    },
+    "Wiam": {
+      "in_arabic": "وئام",
+      "meaning": "harmony, agreement",
+      "meaning_extended": "A name signifying 'harmony', 'agreement', or 'concord'."
+    },
+    "Saida": {
+      "in_arabic": "سعيدة",
+      "meaning": "happy, fortunate",
+      "meaning_extended": "The feminine of Said, meaning 'happy' or 'fortunate'."
+    },
+    "Malika": {
+      "in_arabic": "مليكة",
+      "meaning": "queen",
+      "meaning_extended": "A royal name meaning 'queen'."
+    },
+    "Najia": {
+      "in_arabic": "ناجية",
+      "meaning": "saved, secure",
+      "meaning_extended": "Meaning 'saved', 'safe', or 'secure'."
+    },
+    "Nawal": {
+      "in_arabic": "نوال",
+      "meaning": "gift, favor, grace",
+      "meaning_extended": "Meaning 'gift', 'grace', or 'favor'."
+    },
+    "Hassania": {
+      "in_arabic": "حسنية",
+      "meaning": "excellence, beauty",
+      "meaning_extended": "Derived from Hassan, meaning 'excellence' or 'beauty'."
+    },
+    "Chorouk": {
+      "in_arabic": "شروق",
+      "meaning": "sunrise, dawn",
+      "meaning_extended": "Meaning 'sunrise' or 'dawn'."
+    },
+    "Yamna": {
+      "in_arabic": "يمنى",
+      "meaning": "blessed, right-handed",
+      "meaning_extended": "Meaning 'blessed', 'fortunate', or 'right-handed'."
+    },
+    "Zahra": {
+      "in_arabic": "زهراء",
+      "meaning": "flower, shining, brilliant",
+      "meaning_extended": "Meaning 'shining', 'brilliant', or 'a flower'."
+    },
+    "Manar": {
+      "in_arabic": "منار",
+      "meaning": "lighthouse, source of light",
+      "meaning_extended": "Meaning 'lighthouse' or 'source of light'."
+    },
+    "Nour": {
+      "in_arabic": "نور",
+      "meaning": "light, radiant",
+      "meaning_extended": "A luminous name meaning 'light'."
+    },
+    "Nora": {
+      "in_arabic": "نورة",
+      "meaning": "bright, shining",
+      "meaning_extended": "A variation of Nour, meaning 'shining' or 'bright'."
+    },
+    "Widad": {
+      "in_arabic": "وداد",
+      "meaning": "affection, love, friendship",
+      "meaning_extended": "A name representing 'affection', 'love', and 'friendship'."
+    },
+    "Rajae": {
+      "in_arabic": "رجاء",
+      "meaning": "hope, expectation",
+      "meaning_extended": "A name meaning 'hope' or 'expectation'."
+    },
+    "Fadila": {
+      "in_arabic": "فضيلة",
+      "meaning": "virtuous, excellent",
+      "meaning_extended": "Meaning 'virtuous', 'excellent', or 'superior'."
+    },
+    "Chaimae": {
+      "in_arabic": "شيماء",
+      "meaning": "beauty spot, good natured",
+      "meaning_extended": "Meaning 'marked with a beauty spot' or 'one with a good nature'."
+    },
+    "Chahrazad": {
+      "in_arabic": "شهرزاد",
+      "meaning": "noble person, city dweller",
+      "meaning_extended": "Meaning 'city dweller' or 'noble person', famous from 1001 Nights."
+    },
+    "Monia": {
+      "in_arabic": "منية",
+      "meaning": "wish, desire",
+      "meaning_extended": "Meaning 'wish' or 'desire'."
+    },
+    "Nada": {
+      "in_arabic": "ندى",
+      "meaning": "dew, generosity",
+      "meaning_extended": "A fresh name meaning 'dew' or 'generosity'."
+    },
+    "Nidae": {
+      "in_arabic": "نداء",
+      "meaning": "call, proclamation",
+      "meaning_extended": "Meaning a 'call' or 'proclamation'."
+    },
+    "Jidae": {
+      "in_arabic": "جيداء",
+      "meaning": "neck, grace, newness",
+      "meaning_extended": "Refers to 'the neck' (often implying a long, graceful neck) or 'newness'."
+    },
+    "Joumana": {
+      "in_arabic": "جمانة",
+      "meaning": "silver pearl",
+      "meaning_extended": "Meaning a 'silver pearl'."
+    },
+    "Jawahir": {
+      "in_arabic": "جواهر",
+      "meaning": "jewels, precious stones",
+      "meaning_extended": "The plural of Jawhara, meaning 'jewels' or 'precious stones'."
+    },
+    "Saliha": {
+      "in_arabic": "صالحة",
+      "meaning": "pious, righteous, virtuous",
+      "meaning_extended": "Meaning 'pious', 'righteous', or 'virtuous'."
+    },
+    "Aicha": {
+      "in_arabic": "عائشة",
+      "meaning": "alive, well-living",
+      "meaning_extended": "Meaning 'alive' or 'well-living'; she was the Prophet's wife."
+    },
+    "Abir": {
+      "in_arabic": "عبير",
+      "meaning": "scent, perfume",
+      "meaning_extended": "A fragrant name meaning 'scent' or 'perfume'."
+    },
+    "Loubna": {
+      "in_arabic": "لبنى",
+      "meaning": "styrax tree, sweet resin",
+      "meaning_extended": "Named after a 'styrax tree' which yields a sweet-smelling resin."
+    },
+    "Sofia": {
+      "in_arabic": "صوفيا",
+      "meaning": "pure, wise",
+      "meaning_extended": "Meaning 'pure' (Arabic) or 'wisdom' (Greek)."
+    },
+    "Maria": {
+      "in_arabic": "ماريا",
+      "meaning": "purity, beloved",
+      "meaning_extended": "A name associated with 'purity', used in many cultures including Arabic."
+    },
+    "Chamss": {
+      "in_arabic": "شمس",
+      "meaning": "sun",
+      "meaning_extended": "A bright name meaning 'sun'."
+    },
+    "Qamar": {
+      "in_arabic": "قمر",
+      "meaning": "moon",
+      "meaning_extended": "A celestial name meaning 'moon'."
+    },
+    "Hayat": {
+      "in_arabic": "حياة",
+      "meaning": "life",
+      "meaning_extended": "A vital name meaning 'life'."
+    },
+    "Phalastine": {
+      "in_arabic": "فلسطين",
+      "meaning": "Palestine",
+      "meaning_extended": "The Arabic name for 'Palestine'."
+    },
+    "Soraya": {
+      "in_arabic": "ثريا",
+      "meaning": "stars, Pleiades, prosperous",
+      "meaning_extended": "Meaning 'the Pleiades' (a cluster of stars) or 'prosperous'."
+    },
+    "Nouhaila": {
+      "in_arabic": "نهيلة",
+      "meaning": "small drink, thirst-quencher",
+      "meaning_extended": "Meaning 'a small drink of water' or 'thirst-quencher'."
+    },
+    "Ghita": {
+      "in_arabic": "غيثة",
+      "meaning": "rain, gift of God",
+      "meaning_extended": "Meaning 'rain' or a 'gift from God'."
+    },
+    "Ikram": {
+      "in_arabic": "إكرام",
+      "meaning": "hospitality, honor, generosity",
+      "meaning_extended": "Meaning 'hospitality', 'generosity', or 'honor'."
+    },
+    "Chifae": {
+      "in_arabic": "شفاء",
+      "meaning": "healing, cure",
+      "meaning_extended": "Meaning 'healing', 'cure', or 'recovery'."
+    },
+    "Nezha": {
+      "in_arabic": "نزهة",
+      "meaning": "virtue, pleasant stroll",
+      "meaning_extended": "Meaning 'virtue', 'honesty', or a 'pleasant stroll'."
+    },
+    "Jihane": {
+      "in_arabic": "جيهان",
+      "meaning": "the world, universe",
+      "meaning_extended": "Meaning 'the world' or 'the universe'."
+    },
+    "Farah": {
+      "in_arabic": "فرح",
+      "meaning": "joy, happiness",
+      "meaning_extended": "A joyful name meaning 'happiness' or 'gladness'."
+    },
+    "Ayda": {
+      "in_arabic": "عايدة",
+      "meaning": "returning, visitor",
+      "meaning_extended": "Meaning 'returning' or 'visitor', often implying a returning benefit."
+    },
+    "Ayat": {
+      "in_arabic": "آيات",
+      "meaning": "signs, miracles, verses",
+      "meaning_extended": "The plural of Aya, meaning 'signs', 'miracles', or 'verses'."
+    }
+  }
+}
